@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 Trying to be the best web developer I can be
 - 🌱 Currently studying Computer Science at FAU
